@@ -1,4 +1,4 @@
-# Maison Marketplace
+# Maison Marketplace (`maisonfashion`)
 
 A responsive fashion marketplace demo built with React, TypeScript, Vite, Tailwind CSS, and Supabase-ready infrastructure.
 
